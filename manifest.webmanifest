@@ -1,0 +1,11 @@
+{
+  "name": "Los Gatitos 8-bit",
+  "short_name": "Gatitos",
+  "description": "Elecciones Escolares 2027 · juego 8 bits",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#120a22",
+  "theme_color": "#120a22",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
